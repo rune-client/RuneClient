@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="" width="15%"/>
+<img src="https://i.imgur.com/MzYXu4D.png" width="15%"/>
 </p>
 
 <h1 align="center">Rune Client</h1>
