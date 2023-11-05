@@ -11,10 +11,8 @@
     <br>
 </div>
 
-# This project is still in development !!!
-## This mean's it will probably not work.
-
 # Extra Info
+This project is still in **heavy** development, this means that it will probably **not work**.
 
 ## Contributions
 We will review and help with all reasonable pull requests as long as the guidelines below are met.
